@@ -9,4 +9,4 @@ This component for MAUI can run for all platforms and the result is in the follo
 - **WheelColor**: the base colour of the Wheel/Doughnut
 - **WheelSelectedColor**: the colour of the selected/highlighted
 
-For more documentation about this component, please refer to ]PureSourceCode](https://www.puresourcecode.com/dotnet/maui/custom-control-for-maui-using-skiasharp/)
+For more documentation about this component, please refer to [PureSourceCode](https://www.puresourcecode.com/dotnet/maui/custom-control-for-maui-using-skiasharp/)
