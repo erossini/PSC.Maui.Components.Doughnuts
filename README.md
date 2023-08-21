@@ -10,3 +10,9 @@ This component for MAUI can run for all platforms and the result is in the follo
 - **WheelSelectedColor**: the colour of the selected/highlighted
 
 For more documentation about this component, please refer to [PureSourceCode](https://www.puresourcecode.com/dotnet/maui/custom-control-for-maui-using-skiasharp/)
+
+## Coming soon
+
+### Slider
+
+![-mauislider](https://github.com/erossini/PSC.Maui.Components.Doughnuts/assets/9497415/143aee37-8ad8-4985-a576-c6ca9e61aa50)
