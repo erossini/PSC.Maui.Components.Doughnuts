@@ -1,3 +1,5 @@
+[![Nuget](https://img.shields.io/nuget/v/PSC.Maui.Components.Doughnuts)](https://www.nuget.org/packages/PSC.Maui.Components.Doughnuts/)
+
 # Wheel\Doughnuts component for MAUI
 
 This component for MAUI can run for all platforms and the result is in the following screenshot:
@@ -10,6 +12,17 @@ This component for MAUI can run for all platforms and the result is in the follo
 - **WheelSelectedColor**: the colour of the selected/highlighted
 
 For more documentation about this component, please refer to [PureSourceCode](https://www.puresourcecode.com/dotnet/maui/custom-control-for-maui-using-skiasharp/)
+
+## Platforms
+
+The following platforms are currently supported:
+
+| Platform       | Supported          |
+|----------------|--------------------|
+| Android        | Yes                |
+| iOS            | Yes                |
+| Windows        | Yes                |
+| MacCatalyst    | Yes                |
 
 ## Coming soon
 
