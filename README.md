@@ -32,19 +32,19 @@ The following platforms are currently supported:
 
 ## Bindable Properties/Events
 
-| Type     | Property           | Description                                                                                                               | Default Value               |
-| -------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| Property | Arc                | How many degrees the slider should take up from the start (Max 360 - a full circle)                                       | 360                         |
-| Property | KnobColor          | The colour of the knob/handle of the slider                                                                               | Color.FromArgb("#ffff0000") |
-| Property | KnobWidth          | The width of the knob/handle of the slider                                                                                | 5                           |
-| Property | Maximum            | The maximum value of the slider.                                                                                          | 1                           |
-| Property | Minimum            | The minimum value of the slider.                                                                                          | 0                           |
-| Property | PaddingAround      | Spacing from the edges of the control.                                                                                    | 25                          |
-| Property | Start              | The `Start` of the slider is in degrees (0 degrees is on the right side of the circle, and the angles are clockwise).     | 90                          |
-| Property | TrackColor         | The colour of the background track (the back, unfilled part of the slider)                                                | Color.FromArgb("#ffdcdcdc") |
-| Property | TrackProgressColor | The colour of the progress track (the front, filled part of the slider)                                                   | Color.FromArgb("#ffff0000") |
-| Property | TrackProgressWidth | The width of the progress track (the front, filled part of the slider)                                                    | 10                          |
-| Property | TrackWidth         | The width of the background track (the back, unfilled part of the slider)                                                 | 20                          |
-| Property | Value              | The `Value` of the slider.                                                                                                | 0                           |
-| Event    | ValueChanged       | Event fired when the value changes due to user interaction - same event args as the regular Xamarin.Forms Slider control. |                             |
+| Type     | Property           | Description                                                                                                               | Default Value                 |
+| -------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Property | Arc                | How many degrees the slider should take up from the start (Max 360 - a full circle)                                       | `360`                         |
+| Property | KnobColor          | The colour of the knob/handle of the slider                                                                               | `Color.FromArgb("#ffff0000")` |
+| Property | KnobWidth          | The width of the knob/handle of the slider                                                                                | `5`                           |
+| Property | Maximum            | The maximum value of the slider.                                                                                          | `1`                           |
+| Property | Minimum            | The minimum value of the slider.                                                                                          | `0`                           |
+| Property | PaddingAround      | Spacing from the edges of the control.                                                                                    | `25`                          |
+| Property | Start              | The `Start` of the slider is in degrees (0 degrees is on the right side of the circle, and the angles are clockwise).     | `90`                          |
+| Property | TrackColor         | The colour of the background track (the back, unfilled part of the slider)                                                | `Color.FromArgb("#ffdcdcdc")` |
+| Property | TrackProgressColor | The colour of the progress track (the front, filled part of the slider)                                                   | `Color.FromArgb("#ffff0000")` |
+| Property | TrackProgressWidth | The width of the progress track (the front, filled part of the slider)                                                    | `10`                          |
+| Property | TrackWidth         | The width of the background track (the back, unfilled part of the slider)                                                 | `20`                          |
+| Property | Value              | The `Value` of the slider.                                                                                                | `0`                           |
+| Event    | ValueChanged       | Event fired when the value changes due to user interaction - same event args as the regular Xamarin.Forms Slider control. |                               |
 
